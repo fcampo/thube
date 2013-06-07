@@ -1,0 +1,29 @@
+{
+  "name": "Thube",
+  "description": "HTML5 London Tube App",
+  "type": "privileged",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Fernando Campo",
+    "url": "https://github.com/fcampo"
+  },
+  "permissions": {
+    "storage":{},
+    "browser":{}
+  },
+  "locales": {
+    "en-US": {
+      "name": "Thube",
+      "description": "HTML5 London Tube App"
+    },
+    "es": {
+      "name": "Thube",
+      "description": "Aplicación HTML5 para el metro de Londres"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "60": "/style/icons/thube_icon.png"
+  },
+  "orientation": "portrait-primary"
+}
